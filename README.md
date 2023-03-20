@@ -1,2 +1,2 @@
 # cidemo
-github actions demo
+Updated readme
